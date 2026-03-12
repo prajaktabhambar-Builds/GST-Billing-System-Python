@@ -1,2 +1,19 @@
-# GST-Billing-System-Python
-A simple GST Billing System developed using Python that calculates GST, generates bills, and helps understand basic billing automation. This project demonstrates Python programming concepts such as user input, calculations, and formatted output.
+# GST Billing System using Python
+
+## Project Description
+The GST Billing System is a simple Python application that calculates GST and generates a bill based on product details.
+
+## Features
+- Enter product name
+- Enter price and quantity
+- Select GST percentage
+- Automatic GST calculation
+- Displays final bill
+
+## Technologies Used
+Python
+
+## How to Run
+
+1. Install Python
+2. Run the program
